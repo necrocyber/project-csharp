@@ -1,0 +1,15 @@
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/bin/Debug/net6.0/jorge-medel
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/bin/Debug/net6.0/jorge-medel.deps.json
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/bin/Debug/net6.0/jorge-medel.runtimeconfig.json
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/bin/Debug/net6.0/jorge-medel.dll
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/bin/Debug/net6.0/jorge-medel.pdb
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.csproj.AssemblyReference.cache
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.AssemblyInfoInputs.cache
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.AssemblyInfo.cs
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.csproj.CoreCompileInputs.cache
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.dll
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/refint/jorge-medel.dll
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.pdb
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/jorge-medel.genruntimeconfig.cache
+/Users/jmedelc/PROJECTS/jorge-medel/jorge-medel/obj/Debug/net6.0/ref/jorge-medel.dll

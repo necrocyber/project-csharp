@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{27359C87-B697-4A68-834E-34090AEB4AEC}|Default">
+  <MonoDevelop.Ide.ItemProperties.jorge-medel PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jorge-medel/Program.cs">
+    <Files>
+      <File FileName="jorge-medel/Program.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jorge-medel" expanded="True">
+            <Node name="jorge-medel" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
