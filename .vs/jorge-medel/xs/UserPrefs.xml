@@ -1,22 +1,37 @@
 ﻿<Properties StartupConfiguration="{27359C87-B697-4A68-834E-34090AEB4AEC}|Default">
-  <MonoDevelop.Ide.ItemProperties.jorge-medel PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="jorge-medel/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.jorge-medel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="jorge-medel/Venta.cs">
     <Files>
-      <File FileName="jorge-medel/Program.cs" Line="2" Column="1" />
+      <File FileName="jorge-medel/Program.cs" Line="10" Column="13" />
+      <File FileName="jorge-medel/Usuario.cs" Line="42" Column="73" />
+      <File FileName="jorge-medel/Producto.cs" Line="22" Column="3" />
+      <File FileName="jorge-medel/ProductoVendido.cs" Line="18" Column="3" />
+      <File FileName="jorge-medel/Venta.cs" Line="16" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jorge-medel" expanded="True">
-            <Node name="jorge-medel" expanded="True" selected="True" />
+            <Node name="jorge-medel" expanded="True">
+              <Node name="Producto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jorge-medel" expanded="True">
+            <Node name="jorge-medel" expanded="True">
+              <Node name="Producto.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

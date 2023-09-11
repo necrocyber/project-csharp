@@ -1,24 +1,15 @@
 ﻿using System;
 namespace FinalProject
 {
-	public class Producto
+	public abstract class Producto
 	{
-		private int _id;
-		private string _description;
-		private double _cost;
-		private double _priceSale;
-		private int _stock;
-		private int _idUser;
+		public int id { get; set; }
+        public string description { get; set; }
+        public double cost { get; set; }
+        public double priceSale { get; set; }
+        public int stock { get; set; }
+        public int idUser { get; set; }
 
-		public Producto()
-		{
-			this._id = 0;
-			this._description = string.Empty;
-			this._cost = 0.0;
-			this._priceSale = 0.0;
-			this._stock = 0;
-			this._idUser = 0;
-		}
-	}
+    }
 }
 

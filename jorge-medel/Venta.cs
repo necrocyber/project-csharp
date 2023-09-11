@@ -1,18 +1,12 @@
 ﻿using System;
 namespace FinalProject
 {
-	public class Venta
+	public abstract class Venta
 	{
-		private int _id;
-		private string _comment;
-		private int _idUser;
+		public int id { get; set; }
+        public string comment { get; set; }
+        public int idUser { get; set; }
 
-		public Venta()
-		{
-			this._id = 0;
-			this._comment = string.Empty;
-			this._idUser = 0;
-		}
-	}
+    }
 }
 
